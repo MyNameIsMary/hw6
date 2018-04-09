@@ -12,5 +12,8 @@
 # Sketch Engine
  ## Три самых частотных модификатора существительного question.
 ![](https://github.com/MyNameIsMary/hw6/blob/master/question.PNG)
- ## C какими дополнениями могут употребляться слова grab и grasp
+***
+## C какими дополнениями могут употребляться слова grab и grasp
  ![](https://github.com/MyNameIsMary/hw6/blob/master/grasp%20grab.PNG)
+
+Дополнения, выделенные белым, могут употребляться с двумя глаголами. Например,слово arm подходит и к grasp, и к grab. Слова, закрашенные в зеленый, употребляются только с grasp. Таким словом является meaning. Слова в красном больше использутся с grab. Например, принято говорить to grab a bag, а не to grasp a bag.
